@@ -1,2 +1,3 @@
 added page2
 file
+more information about commit and pushing
